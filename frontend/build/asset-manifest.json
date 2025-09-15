@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/agriassistanceapp1/static/css/main.e1f8137c.css",
+    "main.js": "/agriassistanceapp1/static/js/main.a9fe0bd6.js",
+    "index.html": "/agriassistanceapp1/index.html",
+    "main.e1f8137c.css.map": "/agriassistanceapp1/static/css/main.e1f8137c.css.map",
+    "main.a9fe0bd6.js.map": "/agriassistanceapp1/static/js/main.a9fe0bd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1f8137c.css",
+    "static/js/main.a9fe0bd6.js"
+  ]
+}
